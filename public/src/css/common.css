@@ -115,7 +115,7 @@ margin-left: 0;
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #373D42;}
 
 .navbar-default {
-  background-color: #000000;
+  background-color: #ccded5;
   margin: 0;
   border: 0;
 }
@@ -129,7 +129,7 @@ margin-left: 0;
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus {
   background-color: #ccded5;
-  color: #000000;
+  color: #346464;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>.active>a:hover {
@@ -399,7 +399,7 @@ margin-left: 0;
 
 /* Set the fixed height of the footer here */
 #footer {
-  background-color: #121314;
+  background-color: #373D42;
   color: #fff;
   height: 51px;
   overflow: hidden;
