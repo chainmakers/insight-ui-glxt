@@ -32,8 +32,9 @@ angular.module('insight.currency').controller('CurrencyController',
         }
         // prevent sci notation
         if (response < 1e-7) response=response.toFixed(8);
-
-	response = response.toLocaleString();
+        
+        // add comma separation
+        response = response.toLocaleString(undefined, {minimumFractionDigits: 8, maximumFractionDigits: 8});
         return response + ' ' + this.symbol;
       }
 
