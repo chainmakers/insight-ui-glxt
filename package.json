@@ -43,8 +43,7 @@
     "front-end"
   ],
   "bitcoreNode": "bitcore-node-komodo",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",
     "grunt": "~0.4.2",
