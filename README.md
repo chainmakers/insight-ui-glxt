@@ -1,5 +1,21 @@
 # Insight UI
 
+## Chainmakers README
+
+```bash
+cd <this repo>
+npm install -g bower
+npm install -g grunt-cli
+
+bower install
+grunt compile
+```
+
+Changes made to src will be minified.
+DO NOT CHANGE MINIFIED JS OR CSS
+
+---
+
 A Bitcoin blockchain explorer web application service for [Bitcore Node](https://github.com/bitpay/bitcore-node) using the [Insight API](https://github.com/supernetorg/insight-api-komodo).
 
 ## Quick Start
