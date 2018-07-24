@@ -1,7 +1,4 @@
-/* Sticky footer styles
--------------------------------------------------- */
 @charset "UTF-8";
-
 
 html,
 body {
@@ -121,7 +118,7 @@ margin-left: 0;
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #346464;
+  color: #fff;
   font-family: 'Ubuntu', sans-serif;
   padding-left: 20px;
   padding-right: 20px;
@@ -134,7 +131,7 @@ margin-left: 0;
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>.active>a:hover {
   background-color: #fff;
-  color: #797979;
+  color: #707070;
 }
 
 .navbar-form .form-group {
@@ -175,7 +172,7 @@ margin-left: 0;
 }
 
 .navbar-form .form-control {
-  background-color: #bdc7c2;
+  background-color: #fff;
   border-radius: 3px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -207,7 +204,7 @@ margin-left: 0;
   margin-left: 5px;
 }
 
-#search { color: #fff; }
+#search { color: #121314; }
 
 #search::-webkit-input-placeholder {
   color: #a7a7a7;
@@ -225,12 +222,12 @@ margin-left: 0;
 .status {
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
-  background-color: #346464;
+  background-color: #fff;
   border-radius: 3px;
   margin: 15px 0;
   padding: 8px 10px;
   font-size: 12px;
-  color: #eee;
+  color: #000;
   text-align: center;
   margin-right: 10px;
 }
