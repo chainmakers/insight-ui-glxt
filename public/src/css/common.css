@@ -128,7 +128,7 @@ margin-left: 0;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus {
-  background-color: #ccded5;
+  background-color: #000;
   color: #fff;
 }
 
