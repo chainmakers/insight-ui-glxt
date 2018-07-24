@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 /* Styling for the ngProgress itself */
 #ngProgress {
-  background-color: #6C9032 !important;
+  background-color: rgb(150, 150, 150) !important;
   box-shadow: none !important;
   color: #373D42 !important;
   height: 3px !important;
@@ -658,9 +658,6 @@ margin-left: 0;
   -webkit-animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-timing-function: linear;
-}
-
-.transaction-vin-vout {
 }
 
 .v_highlight {
