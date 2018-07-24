@@ -129,6 +129,11 @@ margin-left: 0;
   color: #fff;
 }
 
+.navbar-default .navbar-nav>li>a:focus{
+  color:#fff;
+  background-color:transparent
+}
+
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>.active>a:hover {
   background-color: #fff;
   color: #707070;
